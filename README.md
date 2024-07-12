@@ -1,6 +1,6 @@
 # visNanopub
 ## Overview
-This is an R script that generates a JavaScript visualization for Nanopublications. (Nanopublications)[https://nanopub.net/] are small knowledge graph snippets. I believe that knowledge graphs hold a great deal of potential to bridge knowledge gaps, but tend to be a little tough to work with without technical expertise.
+This is an R script that generates a JavaScript visualization for Nanopublications. [Nanopublications](https://nanopub.net/) are small knowledge graph snippets. I believe that knowledge graphs hold a great deal of potential to bridge knowledge gaps, but tend to be a little tough to work with without technical expertise.
 
 This script is a starting point. It has lots of to-dos:
 - It's a bit messy still and the URI is not clickable.
