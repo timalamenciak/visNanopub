@@ -10,5 +10,8 @@ This script is a starting point. It has lots of to-dos:
 
 Please reach out if you can/want to help!
 
+![Screenshot 2024-07-12 145003](https://github.com/user-attachments/assets/54296912-1618-4aef-ac3d-6f2f4765fecd)
+
+
 ## Acknowledgments
 Big thanks to Katya Ognyanova for providing this excellent tutorial on network visualizations: https://kateto.net/network-visualization
