@@ -134,4 +134,8 @@ visNetwork(vis.nodes, vis.edges) %>%
   visGroups(groupname = "Assertion", color = "green") %>%
   visGroups(groupname = "Pubinfo", color = "purple") %>%
   visGroups(groupname = "Provenance", color = "orange") %>%
-  visLegend()
+  visEvents(doubleClick = "function(properties) { 
+            window.open(properties.nodes)
+            }") %>%
+  visLegend() %>%
+  visSave("vis.html")
